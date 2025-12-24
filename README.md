@@ -142,10 +142,6 @@ Scadenza: 2025-06-30
 
 ---
 
-## 📝 License
-
-MIT License - Senti libero di usare questo progetto per il tuo CV!
-
 ---
 
 ## 👤 Autore
